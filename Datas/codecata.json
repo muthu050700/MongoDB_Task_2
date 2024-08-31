@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Alice",
+    "array_problems_solved": 12,
+    "mathematics_problems_solved": 8,
+    "strings_problems_solved": 15,
+    "looping_problems_solved": 20,
+    "numbers_problems_solved": 5
+  },
+  {
+    "name": "Bob",
+    "array_problems_solved": 5,
+    "mathematics_problems_solved": 10,
+    "strings_problems_solved": 7,
+    "looping_problems_solved": 12,
+    "numbers_problems_solved": 9
+  },
+  {
+    "name": "Charlie",
+    "array_problems_solved": 14,
+    "mathematics_problems_solved": 6,
+    "strings_problems_solved": 10,
+    "looping_problems_solved": 18,
+    "numbers_problems_solved": 8
+  },
+  {
+    "name": "Diana",
+    "array_problems_solved": 7,
+    "mathematics_problems_solved": 15,
+    "strings_problems_solved": 13,
+    "looping_problems_solved": 9,
+    "numbers_problems_solved": 12
+  },
+  {
+    "name": "Eve",
+    "array_problems_solved": 9,
+    "mathematics_problems_solved": 11,
+    "strings_problems_solved": 14,
+    "looping_problems_solved": 6,
+    "numbers_problems_solved": 7
+  },
+  {
+    "name": "Frank",
+    "array_problems_solved": 8,
+    "mathematics_problems_solved": 9,
+    "strings_problems_solved": 5,
+    "looping_problems_solved": 15,
+    "numbers_problems_solved": 11
+  },
+  {
+    "name": "Grace",
+    "array_problems_solved": 11,
+    "mathematics_problems_solved": 13,
+    "strings_problems_solved": 9,
+    "looping_problems_solved": 8,
+    "numbers_problems_solved": 10
+  },
+  {
+    "name": "Hank",
+    "array_problems_solved": 6,
+    "mathematics_problems_solved": 12,
+    "strings_problems_solved": 8,
+    "looping_problems_solved": 11,
+    "numbers_problems_solved": 13
+  },
+  {
+    "name": "Ivy",
+    "array_problems_solved": 13,
+    "mathematics_problems_solved": 7,
+    "strings_problems_solved": 12,
+    "looping_problems_solved": 17,
+    "numbers_problems_solved": 6
+  },
+  {
+    "name": "Jack",
+    "array_problems_solved": 10,
+    "mathematics_problems_solved": 8,
+    "strings_problems_solved": 11,
+    "looping_problems_solved": 14,
+    "numbers_problems_solved": 9
+  }
+]

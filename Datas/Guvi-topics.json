@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Day 1: HTML Basics",
+    "date": "2023-09-28",
+    "mentor": "muthu@gmail.com"
+  },
+  {
+    "title": "Day 2: HTML intermediate",
+    "date": "2023-09-29",
+    "mentor": "muthu@gmail.com"
+  },
+  {
+    "title": "Day 3: HTML Advanced",
+    "date": "2023-10-05",
+    "mentor": "muthu@gmail.com"
+  },
+  {
+    "title": "Day 4: JavaScript Basics",
+    "date": "2023-10-06",
+    "mentor": "muthu@gmail.com"
+  },
+  {
+    "title": "Day 5: JavaScript intermediate",
+    "date": "2023-10-12",
+    "mentor": "muthu@gmail.com"
+  },
+  {
+    "title": "Day 6: JavaScript Advanced",
+    "date": "2023-10-13",
+    "mentor": "muthu@gmail.com"
+  }
+]

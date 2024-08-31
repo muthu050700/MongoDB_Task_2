@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sanjay",
+    "email": "sanjay@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 32
+  },
+  {
+    "name": "Aarti",
+    "email": "aarti@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 47
+  },
+  {
+    "name": "Priya",
+    "email": "priya@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 40
+  },
+  {
+    "name": "Kumar",
+    "email": "kumar@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 27
+  },
+  {
+    "name": "Nina",
+    "email": "nina@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 34
+  },
+  {
+    "name": "Sita",
+    "email": "sita@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 29
+  },
+  {
+    "name": "Anil",
+    "email": "anil@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 42
+  },
+  {
+    "name": "Manikandan",
+    "email": "mani@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 10
+  },
+  {
+    "name": "Raj",
+    "email": "raj@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 8
+  },
+  {
+    "name": "Ravi",
+    "email": "ravi@example.com",
+    "courses": ["MERN", "MEAN"],
+    "students": 12
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Day 1: HTML Basics",
+    "dueDate": "2023-10-04",
+    "date": "2023-09-28",
+    "userId": 1,
+    "isSubmitted": true
+  },
+  {
+    "title": "Day 2: HTML intermediate",
+    "dueDate": "2023-10-05",
+    "date": "2023-09-29",
+    "userId": 2,
+    "isSubmitted": true
+  },
+  {
+    "title": "Day 3: HTML Advanced",
+    "dueDate": "2023-10-11",
+    "date": "2023-10-05",
+    "userId": 3,
+    "isSubmitted": true
+  },
+  {
+    "title": "Day 4: JavaScript Basics",
+    "dueDate": "2023-10-12",
+    "date": "2023-10-06",
+    "userId": 4,
+    "isSubmitted": true
+  },
+  {
+    "title": "Day 5: JavaScript intermediate",
+    "dueDate": "2023-10-18",
+    "date": "2023-10-12",
+    "userId": 5,
+    "isSubmitted": false
+  },
+  {
+    "title": "Day 5: JavaScript intermediate",
+    "dueDate": "2023-10-19",
+    "date": "2023-10-13",
+    "userId": 6,
+    "isSubmitted": false
+  }
+]

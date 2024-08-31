@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "company": "Tech Innovators Inc.",
+    "date": "2020-10-05",
+    "totalStudents": [
+      "John Smith",
+      "Emily Johnson",
+      "Michael Brown",
+      "Jessica Davis",
+      "Daniel Miller",
+      "Sarah Wilson",
+      "David Martinez",
+      "Sophia Garcia",
+      "James Lee",
+      "Mia Anderson"
+    ],
+    "present": ["John Smith", "Jessica Davis", "David Martinez"],
+    "notPresent": [
+      "Emily Johnson",
+      "Michael Brown",
+      "Daniel Miller",
+      "Sarah Wilson",
+      "Sophia Garcia",
+      "James Lee",
+      "Mia Anderson"
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Green Energy Solutions",
+    "date": "2020-10-13",
+    "totalStudents": [
+      "Alexander Moore",
+      "Olivia White",
+      "Benjamin Harris",
+      "Emma Thomas",
+      "Liam Clark",
+      "Charlotte Lewis",
+      "Elijah Walker",
+      "Ava Hall",
+      "Ethan Allen",
+      "Isabella Young"
+    ],
+    "present": ["Emma Thomas", "Liam Clark", "Elijah Walker", "Isabella Young"],
+    "notPresent": [
+      "Alexander Moore",
+      "Olivia White",
+      "Benjamin Harris",
+      "Charlotte Lewis",
+      "Ava Hall",
+      "Ethan Allen"
+    ]
+  },
+  {
+    "id": 3,
+    "company": "Skyline Ventures",
+    "date": "2020-10-21",
+    "totalStudents": [
+      "Matthew King",
+      "Abigail Wright",
+      "Andrew Hill",
+      "Chloe Scott",
+      "Joshua Adams",
+      "Grace Baker",
+      "Lucas Turner",
+      "Zoe Gonzalez",
+      "Jack Evans",
+      "Amelia Nelson"
+    ],
+    "present": ["Andrew Hill", "Chloe Scott", "Lucas Turner"],
+    "notPresent": [
+      "Matthew King",
+      "Abigail Wright",
+      "Joshua Adams",
+      "Grace Baker",
+      "Zoe Gonzalez",
+      "Jack Evans",
+      "Amelia Nelson"
+    ]
+  },
+  {
+    "id": 4,
+    "company": "Pioneer Software Ltd.",
+    "date": "2020-10-02",
+    "totalStudents": [
+      "Henry Roberts",
+      "Avery Carter",
+      "Mason Phillips",
+      "Ella Mitchell",
+      "Logan Parker",
+      "Lily Campbell",
+      "Samuel Perez",
+      "Aria Murphy",
+      "Christopher Collins",
+      "Madison Reed"
+    ],
+    "present": [
+      "Henry Roberts",
+      "Mason Phillips",
+      "Ella Mitchell",
+      "Logan Parker"
+    ],
+    "notPresent": [
+      "Avery Carter",
+      "Lily Campbell",
+      "Samuel Perez",
+      "Aria Murphy",
+      "Christopher Collins",
+      "Madison Reed"
+    ]
+  },
+  {
+    "id": 5,
+    "company": "HealthFirst Enterprises",
+    "date": "2020-10-18",
+    "totalStudents": [
+      "Gabriel Stewart",
+      "Harper Rivera",
+      "Anthony Morris",
+      "Sofia Rogers",
+      "Dylan Cook",
+      "Layla Morgan",
+      "Nathan Reed",
+      "Victoria Cox",
+      "Ryan Richardson",
+      "Mila Howard"
+    ],
+    "present": ["Gabriel Stewart", "Harper Rivera", "Dylan Cook"],
+    "notPresent": [
+      "Anthony Morris",
+      "Sofia Rogers",
+      "Layla Morgan",
+      "Nathan Reed",
+      "Victoria Cox",
+      "Ryan Richardson",
+      "Mila Howard"
+    ]
+  },
+  {
+    "id": 6,
+    "company": "Apex Financial",
+    "date": "2020-10-27",
+    "totalStudents": [
+      "Carter Ward",
+      "Scarlett Bell",
+      "Evan Russell",
+      "Evelyn Wood",
+      "Joseph Griffin",
+      "Penelope Bailey",
+      "Isaac Cooper",
+      "Lucy James",
+      "Nicholas Diaz",
+      "Violet Hughes"
+    ],
+    "present": [
+      "Evan Russell",
+      "Joseph Griffin",
+      "Penelope Bailey",
+      "Nicholas Diaz"
+    ],
+    "notPresent": [
+      "Carter Ward",
+      "Scarlett Bell",
+      "Evelyn Wood",
+      "Isaac Cooper",
+      "Lucy James",
+      "Violet Hughes"
+    ]
+  },
+  {
+    "id": 7,
+    "company": "NextGen Robotics",
+    "date": "2020-10-09",
+    "totalStudents": [
+      "Caleb Watson",
+      "Aurora Brooks",
+      "Jacob Coleman",
+      "Luna Bennett",
+      "Christian Sanders",
+      "Lillian Foster",
+      "Aaron Long",
+      "Stella Simmons",
+      "Jonathan Peterson",
+      "Hannah Bryant"
+    ],
+    "present": [
+      "Aurora Brooks",
+      "Jacob Coleman",
+      "Luna Bennett",
+      "Jonathan Peterson"
+    ],
+    "notPresent": [
+      "Caleb Watson",
+      "Christian Sanders",
+      "Lillian Foster",
+      "Aaron Long",
+      "Stella Simmons",
+      "Hannah Bryant"
+    ]
+  },
+  {
+    "id": 8,
+    "company": "Elite Marketing",
+    "date": "2020-10-15",
+    "totalStudents": [
+      "Hunter Collins",
+      "Ellie Ward",
+      "Adam Reed",
+      "Paisley Foster",
+      "Dominic Barnes",
+      "Riley James",
+      "Owen Powell",
+      "Nora Kelly",
+      "Brayden Brooks",
+      "Hazel Cooper"
+    ],
+    "present": ["Ellie Ward", "Dominic Barnes", "Nora Kelly", "Brayden Brooks"],
+    "notPresent": [
+      "Hunter Collins",
+      "Adam Reed",
+      "Paisley Foster",
+      "Riley James",
+      "Owen Powell",
+      "Hazel Cooper"
+    ]
+  },
+  {
+    "id": 9,
+    "company": "Bright Future Education",
+    "date": "2020-10-03",
+    "totalStudents": [
+      "Thomas Sanders",
+      "Aurora Ross",
+      "Austin Henderson",
+      "Addison Edwards",
+      "Nathaniel Diaz",
+      "Savannah Clark",
+      "Julian Torres",
+      "Samantha Rogers",
+      "Connor Murphy",
+      "Aubrey Richardson"
+    ],
+    "present": [
+      "Aurora Ross",
+      "Addison Edwards",
+      "Julian Torres",
+      "Connor Murphy"
+    ],
+    "notPresent": [
+      "Thomas Sanders",
+      "Austin Henderson",
+      "Nathaniel Diaz",
+      "Savannah Clark",
+      "Samantha Rogers",
+      "Aubrey Richardson"
+    ]
+  },
+  {
+    "id": 10,
+    "company": "Urban Development Co.",
+    "date": "2020-10-25",
+    "totalStudents": [
+      "Levi Martinez",
+      "Avery Howard",
+      "Landon Nelson",
+      "Sophie Young",
+      "Grayson Green",
+      "Anna Hernandez",
+      "Hunter Hall",
+      "Natalie Nelson",
+      "Isaiah Brown",
+      "Brooklyn Walker"
+    ],
+    "present": [
+      "Avery Howard",
+      "Landon Nelson",
+      "Sophie Young",
+      "Isaiah Brown"
+    ],
+    "notPresent": [
+      "Levi Martinez",
+      "Grayson Green",
+      "Anna Hernandez",
+      "Hunter Hall",
+      "Natalie Nelson",
+      "Brooklyn Walker"
+    ]
+  }
+]
