@@ -64,6 +64,7 @@ db.users.find({
   absent: false,
 });
 
+//not submitted between 15 oct-2020 and 31-oct-2020
 db.tasks.find({
   isSubmitted: false,
   date: { $gt: "2023-10-15", $lt: "2023-10-31" },
