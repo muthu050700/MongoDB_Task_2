@@ -8,7 +8,7 @@ db.topics.find({ date: { $regex: "2023-10" } });
 
 db.tasks.find({ date: { $regex: "2023-10" } });
 
-//2)
+//2)Find all the company drives which appeared between 15 oct-2020 and 31-oct-2020
 
 db.company_drives.find({ date: { $gt: "2020-10-15", $lt: "2020-10-31" } });
 
@@ -53,24 +53,18 @@ db.codecata
   ])
   .sort({ name: 1 });
 
-//5)
+//5)Find all the mentors with who has the mentee's count more than 15
 
 db.mentors.find({ students: { $gt: 15 } });
 
 //6)Find the number of users who are absent and task is not submitted  between 15 oct-2020 and 31-oct-2020
 
-db.company_drives.aggregate([
-  {
-    $project: {
-      notPresent: 1,
-    },
-  },
-]);
+//users absent
+db.users.find({
+  absent: false,
+});
 
-db.tasks.aggregate([
-  {
-    $match: {
-      isSubmitted: false,
-    },
-  },
-]);
+db.tasks.find({
+  isSubmitted: false,
+  date: { $gt: "2023-10-15", $lt: "2023-10-31" },
+});

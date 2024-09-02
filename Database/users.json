@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Alex",
+    "email": "alex@example.com",
+    "course": "Full Stack Development",
+    "batch": "FSD57WE-U",
+    "mentor": {
+      "name": "Priya",
+      "email": "priya@example.com"
+    },
+    "absent": false
+  },
+  {
+    "name": "Riya",
+    "email": "riya@example.com",
+    "course": "Frontend Development",
+    "batch": "FD45WT-V",
+    "mentor": {
+      "name": "Anil",
+      "email": "anil@example.com"
+    },
+    "absent": true
+  },
+  {
+    "name": "John",
+    "email": "john@example.com",
+    "course": "Backend Development",
+    "batch": "BD66WT-X",
+    "mentor": {
+      "name": "Ramesh",
+      "email": "ramesh@example.com"
+    },
+    "absent": false
+  },
+  {
+    "name": "Sofia",
+    "email": "sofia@example.com",
+    "course": "Data Science",
+    "batch": "DS34WE-Y",
+    "mentor": {
+      "name": "Anita",
+      "email": "anita@example.com"
+    },
+    "absent": true
+  },
+  {
+    "name": "Liam",
+    "email": "liam@example.com",
+    "course": "Machine Learning",
+    "batch": "ML78WE-Z",
+    "mentor": {
+      "name": "Karan",
+      "email": "karan@example.com"
+    },
+    "absent": false
+  },
+  {
+    "name": "Mia",
+    "email": "mia@example.com",
+    "course": "Cyber Security",
+    "batch": "CS49WT-W",
+    "mentor": {
+      "name": "Vikram",
+      "email": "vikram@example.com"
+    },
+    "absent": true
+  },
+  {
+    "name": "David",
+    "email": "david@example.com",
+    "course": "Cloud Computing",
+    "batch": "CC77WE-V",
+    "mentor": {
+      "name": "Sneha",
+      "email": "sneha@example.com"
+    },
+    "absent": false
+  }
+]

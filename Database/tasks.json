@@ -35,10 +35,17 @@
     "isSubmitted": false
   },
   {
-    "title": "Day 5: JavaScript intermediate",
+    "title": "Day 5: JavaScript Advanced",
     "dueDate": "2023-10-19",
     "date": "2023-10-13",
     "userId": 6,
+    "isSubmitted": false
+  },
+  {
+    "title": "Day 6: React basics",
+    "dueDate": "2023-10-25",
+    "date": "2023-10-18",
+    "userId": 7,
     "isSubmitted": false
   }
 ]
